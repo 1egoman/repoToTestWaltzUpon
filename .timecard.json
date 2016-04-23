@@ -1,0 +1,24 @@
+{
+  "reportFormat": "default",
+  "hourlyRate": 0,
+  "card": [],
+  "name": {
+    "dispatchConfig": null,
+    "dispatchMarker": null,
+    "nativeEvent": null,
+    "type": null,
+    "target": null,
+    "currentTarget": null,
+    "eventPhase": null,
+    "bubbles": null,
+    "cancelable": null,
+    "timeStamp": null,
+    "defaultPrevented": null,
+    "isTrusted": null,
+    "_dispatchListeners": null,
+    "_dispatchIDs": null
+  },
+  "tagline": "Nothing is really here.",
+  "clientName": "Mr. Cool",
+  "primaryColor": "#dbdf00"
+}
